@@ -1,0 +1,26 @@
+{
+  "name": "vansh-currency-converter",
+  "version": "1.0.0",
+  "description": "An NPM Package to convert currency.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanshchauhan21/vansh-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "vansh chauhan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vanshchauhan21/vansh-currency-converter/issues"
+  },
+  "homepage": "https://github.com/vanshchauhan21/vansh-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
